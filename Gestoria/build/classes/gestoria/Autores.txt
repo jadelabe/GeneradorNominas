@@ -1,0 +1,43 @@
+
+INTEGRANTES DEL GRUPO.
+
+
+
+PATRICIA TUR BANON 47251428-K
+
+JAVIER DE LAMA BERMEJO 09816262-T
+
+
+
+ARCHIVO MAIN DEL PROYECTO --> AAGESTORIA.JAVA
+
+ARCHIVOS DESARROLLADOS .... 
+
+JAVIER
+******************************************
+practica_1
+
+ID.java	
+
+practica_4 
+
+PaysheetToPDF.java	 
+
+
+
+
+PATRICIA 
+********************************************
+practica_2
+
+BANCOS.JAVA		   
+CORREOS.JAVA
+
+practica_3
+
+Trabajador.java
+Datos_origen.java 
+Creacion_nominas.java
+
+
+

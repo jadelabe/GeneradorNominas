@@ -1,0 +1,58 @@
+
+clase main  ->  gui.java
+
+INTEGRANTES DEL GRUPO.
+
+
+
+PATRICIA TUR BANON 47251428-K
+
+JAVIER DE LAMA BERMEJO 09816262-T
+
+
+
+ARCHIVO MAIN DEL PROYECTO --> AAGESTORIA.JAVA
+
+ARCHIVOS DESARROLLADOS .... 
+
+JAVIER
+******************************************
+practica_1
+
+ID.java	
+
+practica_4 
+
+PaysheetToPDF.java	 
+
+practica_5 * MEJORA VOLUNTARIA *  
+gui.java
+gui.form
+
+creación completa de la interfaz de usuario (100%) 
+adaptacion de los pdf 
+
+
+
+
+
+PATRICIA 
+********************************************
+practica_2
+
+BANCOS.JAVA		   
+CORREOS.JAVA
+
+practica_3
+
+Trabajador.java
+Datos_origen.java 
+Creacion_nominas.java
+
+
+practica_5 * MEJORA VOLUNTARIA *  
+añadido el calculo sobre los dias de las bajas
+corregido error de IRPF sobre personas que no trabajan el año completo 
+correjido el calculo de pagas extra sobre personas que solo han trabajado unos meses del sexsenio 
+*error no corregido * --> bono_antiguedad , con cambio de trienio . diferencia unos 5-10 €   
+ 
